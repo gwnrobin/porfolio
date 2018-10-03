@@ -1,0 +1,55 @@
+*
+{
+  margin:0;padding:0;
+}
+
+html,body
+{
+    height:100%;
+}
+body
+{
+  margin: 0 auto;
+}
+
+
+#section-1-wrap
+{
+  background-color: #333;
+  display: flex;
+  align-items: center;
+}
+
+.about
+{
+  color: grey;
+  width: 85%;
+  max-width: 120rem;
+  margin: 0 auto;
+  font-size: 2.25vw;
+  align-self: center;
+  padding: 11rem 0 6rem;
+  text-align: center;
+}
+
+#section-2-wrap
+{
+  background-color: #d9d9d9;
+  display: flex;
+}
+.games-wrap
+{
+  max-width: 120rem;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.game-wrap
+{
+  margin: 0 auto;
+  background-color: white;
+  height: 200px;
+  max-width: 120rem;
+  width: 85%;
+  margin-top: 4em;
+}
