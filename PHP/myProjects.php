@@ -21,20 +21,181 @@
       </div>
     </div>
     <div class="section" id="section-2-wrap">
-      <div class="games-wrap">
+      <div class="games-container">
         <div class="game-wrap">
-          <div class="game">
-
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJJ JJJJJJJJJJ JJJJJJJJJ JJJJ JJJJJJJ JJJJ JJJJJJJJJ JJJJJJ</p>
+            </div>
           </div>
         </div>
         <div class="game-wrap">
-          <div class="game">
-
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJ JJJJJJ</p>
+            </div>
           </div>
+        </div>
+        <div class="game-wrap">
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJ JJssssssss sssssssssss ssssssss ssssssssssss sssssssss ssssssss ssssssssss sssssssssss ssssssssss sssssss sssssss ssssssssss ssssssssssss ssssssssssss sssssssssssss sssssssssssss sJJJJ</p>
+            </div>
+          </div>
+        </div>
+        <div class="game-wrap">
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJ JJJssssssssssss ssssssssssss JJJ</p>
+            </div>
+          </div>
+        </div>
+        <div class="game-wrap">
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJ JJJJJJ</p>
+            </div>
+          </div>
+        </div>
+        <div class="game-wrap">
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJ JJssssssssssss sssssssssssss sssssssssssssssss ssssssssssssssss ssssssssssssss ssssssss ssssssssss s           s  sssssss sssssss ssssssssss ssssssssssss JJJJ</p>
+            </div>
+          </div>
+        </div>
+        <div class="game-wrap">
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
+            </div>
+          </div>
+        </div>
+        <div class="game-wrap">
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
+            </div>
+          </div>
+        </div>
+        <div class="game-wrap">
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
+            </div>
+          </div>
+        </div>
+        <div class="game-wrap">
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
+            </div>
+          </div>
+        </div>
+        <div class="game-wrap">
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
+            </div>
+          </div>
+        </div>
+        <div class="game-wrap">
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
+            </div>
+          </div>
+        </div>
+        <div class="game-wrap">
+          <div class="game-item">
+            <div class="img-wrapper">
+              <a class="game-link" href="#">
+                <img src="https://via.placeholder.com/192x108">
+              </a>
+            <div class="img-area"></div>
+            </div>
+            <div class="game-content">
+              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
+            </div>
+          </div>
+        </div>
+        
       </div>
     </div>
-  </div>
     <?php include 'Footer.php'; ?>
     <script src="../Scripts/Header.js"></script>
+    <script src="../Scripts/GameLayout.js"></script>
   </body>
 </html>

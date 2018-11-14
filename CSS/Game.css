@@ -21,6 +21,9 @@ body
 #section-1-wrap
 {
   position: relative;
+  opacity: 1;
+  background-attachment: fixed;
+  background-position:  center center;
 }
 
 .centershow-wrap
@@ -129,7 +132,6 @@ body
 #section-2-wrap
 {
   background-color: #d9d9d9;
-  height: 1200px;
 }
 
 .game_highlights
@@ -138,6 +140,7 @@ body
   max-width: 120rem;
   width: 85%;
   padding-top: 4rem;
+  padding-bottom: 4rem
 }
 
 .rightcol
@@ -145,15 +148,16 @@ body
   width: 25%;
   float: right;
   background: white;
-  height: 500px;
+  height: 600px;
 }
 
 .leftcol
 {
   float: left;
   background: #333;
-  height: 500px;
+  max-height: 600px;
   width: 70%;
+  margin-bottom: 2rem;
 }
 
 .highlight
@@ -168,7 +172,7 @@ body
   position: relative;
 }
 
-.highlight_movie
+.highlight_active
 {
   position: absolute;
   top: 0;
@@ -178,20 +182,20 @@ body
   text-align: center;
   width: 100%;
   height: 100%;
+  display: none;
 }
 
-#highlight_movie_placeholder
+#highlight_spacer
 {
-  width: 600px;
-  height: 337px;
-  background:black;
+  width: 100%;
+  max-height: 480px;
+  display: block;
 }
 
 .highlight_player_area
 {
-  width: 100%;
-  height: 380px;
-  display: block;
+  overflow: hidden;
+  position: relative;
 }
 
 .highlight_strip
@@ -199,13 +203,16 @@ body
   position: relative;
   z-index: 40;
   height: 120px;
+  align-items: center;
 }
 
 .highlight_scroll
 {
   position: absolute;
   display: flex;
-  width: 200%;
+  align-items: center;
+  left: 0px;
+  transition: left 1s;
 }
 
 .highlight_strip_item
@@ -215,7 +222,117 @@ body
   text-align: center;
   position: relative;
   float: left;
-  margin: 4px;
+  margin: 10px 5px 10px 5px;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.highlight_strip_item:hover
+{
+  opacity: 1;
+}
+
+.highlight_button_left
+{
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  background: black;
+  z-index: 2;
+  left: 0px;
+  top: 40px;
+  opacity: .5;
+  float: left;
+  display: flex;
+}
+
+.highlight_button_right
+{
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  background: black;
+  z-index: 2;
+  right: 0px;
+  top: 40px;
+  opacity: .5;
+  float: right;
+  display: flex;
+}
+
+.arrow_left
+{
+  z-index: 1;
+  color: white;
+  position: absolute;
+  transform: rotate(-90deg);
+  top: 6px;
+  left: 7px;
+}
+
+.arrow_right
+{
+  z-index: 1;
+  color: white;
+  position: absolute;
+  transform: rotate(90deg);
+  top: 6px;
+  left: 10px;
+}
+
+#game_cover
+{
+  width: 100%;
+  height: 160px;
+}
+
+.information
+{
+  list-style: none;
+}
+
+.about_game
+{
+  margin-top: .5rem;
+  margin-left: .5rem;
+  margin-right: .5rem
+}
+
+.general_information
+{
+  margin-top: .5rem;
+  margin-left: .5rem;
+  margin-right: .5rem
+}
+
+.info-section
+{
+  display: flex;
+  justify-content: space-between;
+}
+
+.big-text
+{
+  display: flex;
+  width: 70%;
+}
+
+.about_infomation
+{
+  background-color: white;
+  width: 32.5%;
+  margin-right: 5%;
+}
+
+.genaral_info
+{
+  background-color: white;
+  width: 25%;
+}
+
+.info-text
+{
+  padding: .5rem;
 }
 
 @media screen and (max-width: 1055px)
@@ -230,7 +347,45 @@ body
   {
     width: 100%;
     clear: both;
-    height: 300px;
+    height: auto;
     margin-bottom: 2rem;
+  }
+
+  #game_cover
+  {
+    float: left;
+    width: 40%;
+    height: auto;
+  }
+  .info-section
+  {
+      display: block;
+  }
+
+  .about_infomation
+  {
+    background-color: white;
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+
+  .genaral_info
+  {
+    background-color: white;
+    width: 100%;
+  }
+
+}
+
+@media screen and (max-width: 550px)
+{
+
+  .rightcol
+  {
+    clear: both;
+  }
+  #game_cover
+  {
+    width: 100%;
   }
 }

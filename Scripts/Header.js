@@ -4,9 +4,7 @@ var x = document.getElementById("site-header");
 var y = document.getElementById("nav-bar");
 var z = document.getElementById("icon");
 var a = document.getElementById("responsive-menu-wrap");
-var b = document.getElementById("infobutton");
-
-
+//var b = document.getElementById("infobutton");
 
 var hamburger = true;
 
@@ -20,7 +18,7 @@ function scrollFunction()
     if (x.className == " site-header"){ x.className += " shrink"; }
     if (y.className == " nav-bar"){ y.className += " shrink-container"; }
     if (z.className == " icon"){ z.className += " shrink-icon"; }
-    if (b.className == " infobutton"){ b.className += " hidden"; }
+//    if (b.className == " infobutton"){ b.className += " hidden"; }
     for (var i = 0; i < menuItem.length; i++){ menuItem[i].style.color = "black"; }
     a.style.backgroundColor = "#f4f4f4";
   }
@@ -29,13 +27,13 @@ function scrollFunction()
     if (x.className != " site-header"){ x.className = " site-header"; }
     if (y.className != " nav-bar"){ y.className = " nav-bar"; }
     if (z.className != " icon"){ z.className = " icon"; }
-    if (b.className != " infobutton"){ b.className = " infobutton"; }
+//    if (b.className != " infobutton"){ b.className = " infobutton"; }
     for (var i = 0; i < menuItem.length; i++){ menuItem[i].style.color = "white"; }
     a.style.backgroundColor = "#333";
   }
 }
 
-function scrollButton()
+/*function scrollButton()
 {
   window.scrollTo
   (
@@ -45,7 +43,7 @@ function scrollButton()
     }
   );
   scrollFunction();
-}
+}*/
 
 function myFunction()
 {

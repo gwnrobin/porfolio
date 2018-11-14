@@ -29,23 +29,77 @@
             <source src="../Videos/movie.mp4" type="video/mp4">
           </video>
         </div>
-        <div class="highlight_strip">
-          <div class="highlight_scroll">
-            <a class="highlight_strip_item" href="PianoSimulator.php"><img src="https://via.placeholder.com/250x120"></a>
-            <a class="highlight_strip_item" href="ZombieFeeder.php"><img src="https://via.placeholder.com/250x120"></a>
-            <a class="highlight_strip_item" href="https://placeholder.com"><img src="https://via.placeholder.com/250x120"></a>
-            <a class="highlight_strip_item" href="https://placeholder.com"><img src="https://via.placeholder.com/250x120"></a>
-            <a class="highlight_strip_item" href="https://placeholder.com"><img src="https://via.placeholder.com/250x120"></a>
-            <a class="highlight_strip_item" href="https://placeholder.com"><img src="https://via.placeholder.com/250x120"></a>
-            <a class="highlight_strip_item" href="https://placeholder.com"><img src="https://via.placeholder.com/250x120"></a>
-            <a class="highlight_strip_item" href="https://placeholder.com"><img src="https://via.placeholder.com/250x120"></a>
-            <a class="highlight_strip_item" href="https://placeholder.com"><img src="https://via.placeholder.com/250x120"></a>
+        <div class="highlight_games_section">
+          <div class="highlight_games">
+            <div class="highlight_game">
+              <div class="highlight_game_content">
+                <a class="highlight_strip_item" href="PianoSimulator.php"><img src="https://via.placeholder.com/250x120"></a>
+                <div class="highlight_game_content_text">
+                  <h1>Inventory system</h1>
+                </div>
+                <a href="InventorySystem.php">
+                  <div class="highlight_game_button">
+                    <p class="arrow_right">&#9650;</p>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="highlight_game">
+              <div class="highlight_game_content">
+                <a class="highlight_strip_item" href="ZombieFeeder.php"><img src="https://via.placeholder.com/250x120"></a>
+                <div class="highlight_game_content_text">
+                  <h1>Normal extrude shader</h1>
+                </div>
+                <a href="ZombieFeeder.php">
+                  <div class="highlight_game_button">
+                    <p class="arrow_right">&#9650;</p>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="highlight_game">
+              <div class="highlight_game_content">
+                <a class="highlight_strip_item" href="StarWars.php"><img src="https://via.placeholder.com/250x120"></a>
+                <div class="highlight_game_content_text">
+                  <h1>Star wars vertical slice</h1>
+                </div>
+                <a href="StarWars.php">
+                  <div class="highlight_game_button">
+                    <p class="arrow_right">&#9650;</p>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="highlight_game">
+              <div class="highlight_game_content">
+                <a class="highlight_strip_item" href="ZombieFeeder.php"><img src="https://via.placeholder.com/250x120"></a>
+                <div class="highlight_game_content_text">
+                  <h1>game</h1>
+                </div>
+                <a href="ZombieFeeder.php">
+                  <div class="highlight_game_button">
+                    <p class="arrow_right">&#9650;</p>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="highlight_game">
+              <div class="highlight_game_content">
+                <a class="highlight_strip_item" href="ZombieFeeder.php"><img src="https://via.placeholder.com/250x120"></a>
+                <div class="highlight_game_content_text">
+                  <h1>game</h1>
+                  <p>blblblblblblbllblblblblbbbbbbbbbbbbbbbbbbbbbbblllllllllllllllllllllllllaaaaaaaaaaaaa</p>
+                </div>
+                <a href="ZombieFeeder.php">
+                  <div class="highlight_game_button">
+                    <p class="arrow_right">&#9650;</p>
+                  </div>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="section" id="section3">
-
     </div>
     <?php include 'Footer.php'; ?>
     <script src="../Scripts/Header.js"></script>
