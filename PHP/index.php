@@ -26,14 +26,14 @@
       <div class="highlight">
         <div class="highlight_player">
           <video class="video" style="height:550px" autoplay muted loop>
-            <source src="../Videos/movie.mp4" type="video/mp4">
+            <source src="../Videos/preview.mp4" type="video/mp4">
           </video>
         </div>
         <div class="highlight_games_section">
           <div class="highlight_games">
             <div class="highlight_game">
               <div class="highlight_game_content">
-                <a class="highlight_strip_item" href="PianoSimulator.php"><img src="https://via.placeholder.com/250x120"></a>
+                <a class="highlight_strip_item" href="InventorySystem.php"><img src="../Pictures/inventorySystem2.png"></a>
                 <div class="highlight_game_content_text">
                   <h1>Inventory system</h1>
                 </div>
@@ -46,7 +46,7 @@
             </div>
             <div class="highlight_game">
               <div class="highlight_game_content">
-                <a class="highlight_strip_item" href="ZombieFeeder.php"><img src="https://via.placeholder.com/250x120"></a>
+                <a class="highlight_strip_item" href="ZombieFeeder.php"><img src="../Pictures/thicShader2.png"></a>
                 <div class="highlight_game_content_text">
                   <h1>Normal extrude shader</h1>
                 </div>
@@ -59,7 +59,7 @@
             </div>
             <div class="highlight_game">
               <div class="highlight_game_content">
-                <a class="highlight_strip_item" href="StarWars.php"><img src="https://via.placeholder.com/250x120"></a>
+                <a class="highlight_strip_item" href="StarWars.php"><img src="../Pictures/starWars2.png"></a>
                 <div class="highlight_game_content_text">
                   <h1>Star wars vertical slice</h1>
                 </div>

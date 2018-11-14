@@ -102,6 +102,7 @@ body
   height: 100%;
   margin-right: 2rem;
   float: left;
+  width: 300px;
 }
 
 .highlight_game_content_text

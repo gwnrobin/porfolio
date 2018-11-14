@@ -22,8 +22,10 @@ body
 {
   position: relative;
   opacity: 1;
-  background-attachment: fixed;
-  background-position:  center center;
+  background-attachment:  fixed;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .centershow-wrap
@@ -302,7 +304,7 @@ body
 {
   margin-top: .5rem;
   margin-left: .5rem;
-  margin-right: .5rem
+  margin-right: .5rem;
 }
 
 .info-section
@@ -333,6 +335,7 @@ body
 .info-text
 {
   padding: .5rem;
+    list-style: none;
 }
 
 @media screen and (max-width: 1055px)

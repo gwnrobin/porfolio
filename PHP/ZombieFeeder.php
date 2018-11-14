@@ -18,17 +18,17 @@
           <h1 class="title" >Zombie feeder</h1>
           <div class="buttons-wrap">
             <div class="buttons">
-              <a href="../Games/">
+              <a href="../Games/zombieFeeder/index.html">
                 <div class="button">
                   <div class="inner_button">
                     <p>Play</p>
                   </div>
                 </div>
               </a>
-              <a href="#">
+              <a href="https://github.com/gwnrobin/ThicShader">
                 <div class="button" style="margin-left: 1rem">
                   <div class="inner_button">
-                    <p>documentation / code</p>
+                    <p>documentatie / code</p>
                   </div>
                 </div>
               </a>
@@ -47,7 +47,7 @@
         <div class="test2">
           <div class="game_highlights">
             <div class="rightcol">
-              <img id="game_cover" src="https://via.placeholder.com/210x108">
+              <img id="game_cover" src="../Pictures/thicShader2.png">
               <div class="information">
                 <div class="about_game">
                   <p>het is een klein project met een shader die er voor zorgt dat de zombie dikker word wanneer je hem voed.<br><br></p>
@@ -60,11 +60,9 @@
                   <div class="highlight_player_area">
                     <img id="highlight_spacer" src="../Pictures/Spacer.png">
                   </div>
-                  <iframe class="highlight_active highlight_movie" frameBorder="0" allowfullscreen src="https://www.youtube.com/embed/XbGJzQgsNhU">Browser not compatible.</iframe>
-                  <iframe class="highlight_active highlight_movie" frameBorder="0" allowfullscreen src="https://www.youtube.com/embed/XbGJzQgsNhU">Browser not compatible.</iframe>
-                  <img class="highlight_active" src="https://via.placeholder.com/192x108">
-                  <img class="highlight_active" src="https://via.placeholder.com/192x108">
-                  <img class="highlight_active" src="https://via.placeholder.com/192x108">
+                  <iframe class="highlight_active highlight_movie" frameBorder="0" allowfullscreen src="https://www.youtube.com/embed/6ARJdwMtn9M">Browser not compatible.</iframe>
+                  <img class="highlight_active" src="../Pictures/thicShader1.png">
+                  <img class="highlight_active" src="../Pictures/thicShader2.png">
                 </div>
                 <div class="highlight_strip">
                   <div class="highlight_buttons">
@@ -80,11 +78,9 @@
                     </a>
                   </div>
                   <div class="highlight_scroll" id="scroll">
-                    <img class="highlight_strip_item" onclick="currentHighlight(0)" id="item" src="https://via.placeholder.com/192x108">
-                    <img class="highlight_strip_item" onclick="currentHighlight(1)" src="https://via.placeholder.com/192x108">
-                    <img class="highlight_strip_item" onclick="currentHighlight(2)" src="https://via.placeholder.com/192x108">
-                    <img class="highlight_strip_item" onclick="currentHighlight(3)" src="https://via.placeholder.com/192x108">
-                    <img class="highlight_strip_item" onclick="currentHighlight(4)" src="https://via.placeholder.com/192x108">
+                    <img class="highlight_strip_item" onclick="currentHighlight(0)" id="item" src="../Pictures/thicShaderTumbnail.jpg">
+                    <img class="highlight_strip_item" onclick="currentHighlight(1)" src="../Pictures/thicShader1.png">
+                    <img class="highlight_strip_item" onclick="currentHighlight(2)" src="../Pictures/thicShader2.png">
                   </div>
                 </div>
               </div>
@@ -107,7 +103,7 @@
               </div>
               <div class="genaral_info">
                 <div class="info-text">
-                  <h2>Genaral Infomation</h2>
+                  <h2>Algemene Informatie</h2>
                   <br>
                   <li>Naam: Zombie feeder</li>
                   <li>Bouw tijd: 2 dagen</li>
