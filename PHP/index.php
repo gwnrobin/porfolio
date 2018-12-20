@@ -15,7 +15,7 @@
     <?php include 'Header.php'; ?>
     <div class="section" id="section-1-wrap">
       <div class="about">
-        <p>I'm Robin</p>
+        <p>I am Robin</p>
         <p>Game Developer from the Netherlands. I like programming, games, and making pictures. I'm creative, honest and a perfectionist.</p>
       </div>
       <div class="infobutton" id="infobutton">
@@ -33,24 +33,11 @@
           <div class="highlight_games">
             <div class="highlight_game">
               <div class="highlight_game_content">
-                <a class="highlight_strip_item" href="InventorySystem.php"><img src="../Pictures/inventorySystem2.png"></a>
+                <a class="highlight_strip_item" href="Freqy.php"><img src="../Pictures/freqyTumbnail.jpg"></a>
                 <div class="highlight_game_content_text">
-                  <h1>Inventory system</h1>
+                  <h1>Endless runner Freqy</h1>
                 </div>
-                <a href="InventorySystem.php">
-                  <div class="highlight_game_button">
-                    <p class="arrow_right">&#9650;</p>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="highlight_game">
-              <div class="highlight_game_content">
-                <a class="highlight_strip_item" href="ZombieFeeder.php"><img src="../Pictures/thicShader2.png"></a>
-                <div class="highlight_game_content_text">
-                  <h1>Normal extrude shader</h1>
-                </div>
-                <a href="ZombieFeeder.php">
+                <a href="Freqy.php">
                   <div class="highlight_game_button">
                     <p class="arrow_right">&#9650;</p>
                   </div>
@@ -72,25 +59,11 @@
             </div>
             <div class="highlight_game">
               <div class="highlight_game_content">
-                <a class="highlight_strip_item" href="ZombieFeeder.php"><img src="https://via.placeholder.com/250x120"></a>
+                <a class="highlight_strip_item" href="BeatTheBoss.php"><img src="../Pictures/beatTheBossTumbnail.jpg"></a>
                 <div class="highlight_game_content_text">
-                  <h1>game</h1>
+                  <h1>Beat the boss Level editor</h1>
                 </div>
-                <a href="ZombieFeeder.php">
-                  <div class="highlight_game_button">
-                    <p class="arrow_right">&#9650;</p>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="highlight_game">
-              <div class="highlight_game_content">
-                <a class="highlight_strip_item" href="ZombieFeeder.php"><img src="https://via.placeholder.com/250x120"></a>
-                <div class="highlight_game_content_text">
-                  <h1>game</h1>
-                  <p>blblblblblblbllblblblblbbbbbbbbbbbbbbbbbbbbbbblllllllllllllllllllllllllaaaaaaaaaaaaa</p>
-                </div>
-                <a href="ZombieFeeder.php">
+                <a href="BeatTheBoss.php">
                   <div class="highlight_game_button">
                     <p class="arrow_right">&#9650;</p>
                   </div>

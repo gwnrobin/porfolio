@@ -28,7 +28,7 @@
               <a href="https://github.com/gwnrobin/ThicShader">
                 <div class="button" style="margin-left: 1rem">
                   <div class="inner_button">
-                    <p>documentatie / code</p>
+                    <p>documentation / code</p>
                   </div>
                 </div>
               </a>
@@ -50,7 +50,7 @@
               <img id="game_cover" src="../Pictures/thicShader2.png">
               <div class="information">
                 <div class="about_game">
-                  <p>het is een klein project met een shader die er voor zorgt dat de zombie dikker word wanneer je hem voed.<br><br></p>
+                  <p>This is a small project focused on the normal extrude shader. So when you feed the zombie he gets fat in specific places.<br><br></p>
                 </div>
               </div>
             </div>
@@ -89,26 +89,26 @@
             <div class="info-section">
               <div class="about_infomation">
                 <div class="info-text">
-                  <h2>Mijn aandeel</h2>
+                  <h2>My part</h2>
                   <br>
-                  <p>Dit project was een solo project. Dit project draait alleen om de shader die ik gemaakt heb. Voor de shader kan je een extra texture gebruiken die grijstinten gebruik om aan te geven wat dikker en minder dik moet worden op het model</p>
+                  <p>I made the shader. What is special about this shader, Is that you can add a extra texture with greyscaling to tell the model what parts of the model should get bigger.</p>
                 </div>
               </div>
               <div class="about_infomation">
                 <div class="info-text">
-                  <h2>Wat ik geleerd heb</h2>
+                  <h2>What did I learn?</h2>
                   <br>
-                  <p>in dit project heb ik voor het eerst met shaders gewerkt. Ik heb hier geleerd hoe een basic shader in elkaar zit. En ik heb geleert hoe krachtig shaders zijn.</p>
+                  <p>This was my first time with shaders. I learned to make a basic shader. And leaned how powerfull shaders are.</p>
                 </div>
               </div>
               <div class="genaral_info">
                 <div class="info-text">
-                  <h2>Algemene Informatie</h2>
+                  <h2>General information</h2>
                   <br>
-                  <li>Naam: Zombie feeder</li>
-                  <li>Bouw tijd: 2 dagen</li>
+                  <li>Name: Normal extrude shader</li>
+                  <li>Build time: 6 Hours</li>
                   <li>Engine: Unity</li>
-                  <li>Programeer taal: C#</li>
+                  <li>Language: C#</li>
                 </div>
               </div>
             </div>

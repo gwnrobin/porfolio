@@ -65,5 +65,5 @@ function showHighlight()
 
 window.setInterval(function()
 {
-  currentHighlight(newIndex + 1);
+  //currentHighlight(newIndex + 1);
 }, 10000);

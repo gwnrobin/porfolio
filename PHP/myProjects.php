@@ -5,7 +5,8 @@
     <title>portfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Chivo:300,700|Playfair+Display:700i" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cinzel:700|Lobster" rel="stylesheet">
     <link rel="stylesheet" href="../CSS/Header.css">
     <link rel="stylesheet" href="../CSS/Footer.css">
     <link rel="stylesheet" href="../CSS/Projects.css">
@@ -25,173 +26,118 @@
         <div class="game-wrap">
           <div class="game-item">
             <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
+              <a class="game-link" href="Freqy.php">
+                <img src="../Pictures/freqyTumbnail.jpg">
               </a>
-            <div class="img-area"></div>
             </div>
             <div class="game-content">
-              <p>JJJJJJJJJ JJJJJJJJJJ JJJJJJJJJ JJJJ JJJJJJJ JJJJ JJJJJJJJJ JJJJJJ</p>
+              <p>this is a endless runner with music as obstacle.</p>
+            </div>
+            <div class="buttons-wrap">
+              <div class="buttons">
+                <a href="Freqy.php">
+                  <div class="button">
+                    <div class="inner_button">
+                      <p>View Page</p>
+                    </div>
+                  </div>
+                </a>
+              </div>
             </div>
           </div>
         </div>
         <div class="game-wrap">
           <div class="game-item">
             <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
+              <a class="game-link" href="BeatTheBoss.php">
+                <img src="../Pictures/beatTheBossTumbnail.jpg">
               </a>
-            <div class="img-area"></div>
             </div>
             <div class="game-content">
-              <p>JJJJJJJJ JJJJJJ</p>
+              <p>this is a endless runner platformer. you can make your own levels with your own songs.</p>
+            </div>
+            <div class="buttons-wrap">
+              <div class="buttons">
+                <a href="BeatTheBoss.php">
+                  <div class="button">
+                    <div class="inner_button">
+                      <p>View Page</p>
+                    </div>
+                  </div>
+                </a>
+              </div>
             </div>
           </div>
         </div>
         <div class="game-wrap">
           <div class="game-item">
             <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
+              <a class="game-link" href="StarWars.php">
+                <img src="../Pictures/starWars2.png">
               </a>
-            <div class="img-area"></div>
             </div>
             <div class="game-content">
-              <p>JJJJJJJJ JJssssssss sssssssssss ssssssss ssssssssssss sssssssss ssssssss ssssssssss sssssssssss ssssssssss sssssss sssssss ssssssssss ssssssssssss ssssssssssss sssssssssssss sssssssssssss sJJJJ</p>
+              <p>This is a vertical slice about the game star wars battlefront 1. The game is focused on flying inside a x-wing.</p>
+            </div>
+            <div class="buttons-wrap">
+              <div class="buttons">
+                <a href="StarWars.php">
+                  <div class="button">
+                    <div class="inner_button">
+                      <p>View Page</p>
+                    </div>
+                  </div>
+                </a>
+              </div>
             </div>
           </div>
         </div>
         <div class="game-wrap">
           <div class="game-item">
             <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
+              <a class="game-link" href="ZombieFeeder.php">
+                <img src="../Pictures/thicShader2.png">
               </a>
-            <div class="img-area"></div>
             </div>
             <div class="game-content">
-              <p>JJJJJJJJ JJJssssssssssss ssssssssssss JJJ</p>
+              <p>This is a small project focused on the normal extrude shader. So when you feed the zombie he gets fat in specific places.</p>
+            </div>
+            <div class="buttons-wrap">
+              <div class="buttons">
+                <a href="ZombieFeeder.php">
+                  <div class="button">
+                    <div class="inner_button">
+                      <p>View Page</p>
+                    </div>
+                  </div>
+                </a>
+              </div>
             </div>
           </div>
         </div>
         <div class="game-wrap">
           <div class="game-item">
             <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
+              <a class="game-link" href="InventorySystem.php">
+                <img src="../Pictures/inventorySystem2.png">
               </a>
-            <div class="img-area"></div>
             </div>
             <div class="game-content">
-              <p>JJJJJJJJ JJJJJJ</p>
+              <p>this is a small project focused on the inventory.</p>
+            </div>
+            <div class="buttons-wrap">
+              <div class="buttons">
+                <a href="InventorySystem.php">
+                  <div class="button">
+                    <div class="inner_button">
+                      <p>View Page</p>
+                    </div>
+                  </div>
+                </a>
+              </div>
             </div>
           </div>
         </div>
-        <div class="game-wrap">
-          <div class="game-item">
-            <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
-              </a>
-            <div class="img-area"></div>
-            </div>
-            <div class="game-content">
-              <p>JJJJJJJJ JJssssssssssss sssssssssssss sssssssssssssssss ssssssssssssssss ssssssssssssss ssssssss ssssssssss s           s  sssssss sssssss ssssssssss ssssssssssss JJJJ</p>
-            </div>
-          </div>
-        </div>
-        <div class="game-wrap">
-          <div class="game-item">
-            <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
-              </a>
-            <div class="img-area"></div>
-            </div>
-            <div class="game-content">
-              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
-            </div>
-          </div>
-        </div>
-        <div class="game-wrap">
-          <div class="game-item">
-            <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
-              </a>
-            <div class="img-area"></div>
-            </div>
-            <div class="game-content">
-              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
-            </div>
-          </div>
-        </div>
-        <div class="game-wrap">
-          <div class="game-item">
-            <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
-              </a>
-            <div class="img-area"></div>
-            </div>
-            <div class="game-content">
-              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
-            </div>
-          </div>
-        </div>
-        <div class="game-wrap">
-          <div class="game-item">
-            <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
-              </a>
-            <div class="img-area"></div>
-            </div>
-            <div class="game-content">
-              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
-            </div>
-          </div>
-        </div>
-        <div class="game-wrap">
-          <div class="game-item">
-            <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
-              </a>
-            <div class="img-area"></div>
-            </div>
-            <div class="game-content">
-              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
-            </div>
-          </div>
-        </div>
-        <div class="game-wrap">
-          <div class="game-item">
-            <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
-              </a>
-            <div class="img-area"></div>
-            </div>
-            <div class="game-content">
-              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
-            </div>
-          </div>
-        </div>
-        <div class="game-wrap">
-          <div class="game-item">
-            <div class="img-wrapper">
-              <a class="game-link" href="#">
-                <img src="https://via.placeholder.com/192x108">
-              </a>
-            <div class="img-area"></div>
-            </div>
-            <div class="game-content">
-              <p>JJJJJJJJ JJsssssssssss ssssssss sssssssssss sssssss ssssssss ssssssss ssssssss sssssssssssss ssssss sJJJJ</p>
-            </div>
-          </div>
-        </div>
-        
       </div>
     </div>
     <?php include 'Footer.php'; ?>

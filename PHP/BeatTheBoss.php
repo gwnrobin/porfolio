@@ -12,10 +12,21 @@
   </head>
   <body>
     <?php include 'Header.php'; ?>
-    <div class="section" id="section-1-wrap" style="background-image: url(../Pictures/../Pictures/starWars2.png)">
+    <div class="section" id="section-1-wrap" style="background-image: url(../Pictures/beatTheBossTumbnail.jpg)">
       <div class="centershow-wrap">
         <div class="centershow">
-          <h1 class="title">Star Wars vertical Slice</h1>
+          <h1 class="title">Beat the boss</h1>
+          <div class="buttons-wrap">
+            <div class="buttons">
+              <a href="https://github.com/gwnrobin/ThicShader">
+                <div class="button" style="margin-left: 1rem">
+                  <div class="inner_button">
+                    <p>documentation / code</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
         </div>
       </div>
       <a class="arrow" href="javascript:void(0);"  onclick="scrollButton()">
@@ -29,10 +40,10 @@
         <div class="test2">
           <div class="game_highlights">
             <div class="rightcol">
-              <img id="game_cover" src="../Pictures/starWars1.png">
+              <img id="game_cover" src="../Pictures/beatTheBossTumbnail.jpg">
               <div class="information">
                 <div class="about_game">
-                  <p>This is a vertical slice about the game star wars battlefront 1. The game is focused on flying inside a x-wing.<br><br></p>
+                  <p>this is a endless runner type of game. you can make your own levels and have to survive the music to beat the boss.<br><br></p>
                 </div>
               </div>
             </div>
@@ -42,9 +53,9 @@
                   <div class="highlight_player_area">
                     <img id="highlight_spacer" src="../Pictures/Spacer.png">
                   </div>
-                  <iframe class="highlight_active highlight_movie" frameBorder="0" allowfullscreen src="https://www.youtube.com/embed/5PilKHeG5HQ">Browser not compatible.</iframe>
-                  <img class="highlight_active" src="../Pictures/starWars1.png">
-                  <img class="highlight_active" src="../Pictures/starWars2.png">
+                  <iframe class="highlight_active highlight_movie" frameBorder="0" allowfullscreen src="https://www.youtube.com/embed/FJf-pzXw_10">Browser not compatible.</iframe>
+                  <img class="highlight_active" src="../Pictures/beatTheBoss1.png">
+                  <img class="highlight_active" src="../Pictures/beatTheBoss2.png">
                 </div>
                 <div class="highlight_strip">
                   <div class="highlight_buttons">
@@ -60,9 +71,9 @@
                     </a>
                   </div>
                   <div class="highlight_scroll" id="scroll">
-                    <img class="highlight_strip_item" onclick="currentHighlight(0)" id="item" src="../Pictures/starWarsThumbnail.png">
-                    <img class="highlight_strip_item" onclick="currentHighlight(1)" src="../Pictures/starWars1.png">
-                    <img class="highlight_strip_item" onclick="currentHighlight(2)" src="../Pictures/starWars2.png">
+                    <img class="highlight_strip_item" onclick="currentHighlight(0)" id="item" src="../Pictures/beatTheBossTumbnail.jpg">
+                    <img class="highlight_strip_item" onclick="currentHighlight(1)" src="../Pictures/beatTheBoss1.png">
+                    <img class="highlight_strip_item" onclick="currentHighlight(2)" src="../Pictures/beatTheBoss2.png">
                   </div>
                 </div>
               </div>
@@ -73,22 +84,22 @@
                 <div class="info-text">
                   <h2>My part</h2>
                   <br>
-                  <p>My part was the controlling of your x-wing.</p>
+                  <p>i made the full level editor and made the prototype game itself.</p>
                 </div>
               </div>
               <div class="about_infomation">
                 <div class="info-text">
-                  <h2>What did i learn</h2>
+                  <h2>What did I learn?</h2>
                   <br>
-                  <p>Before i have only programmed like simple things like walking, but in this game it was really focused on the game feel. and the code good a little more complex.</p>
+                  <p>i learned to make use of scriptable object even more. and to make a basic level editor.</p>
                 </div>
               </div>
               <div class="genaral_info">
                 <div class="info-text">
                   <h2>General information</h2>
                   <br>
-                  <li>Name: Star wars vertical slice</li>
-                  <li>Build time: 2 week</li>
+                  <li>Name: Beat the boss</li>
+                  <li>Build time: 15 hours</li>
                   <li>Engine: Unity</li>
                   <li>Language: C#</li>
                 </div>

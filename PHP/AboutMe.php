@@ -24,19 +24,20 @@
         <div class="aboutme-container-right">
           <div class="text-area">
             <div class="wiebenik"class="text">
-              <h1>Wie ben ik?</h1>
-              <p>Mijn naam is Robin Schellingerhout ik ben geboren in 1999 en woon in Nieuw Vennep. Ik zit in me 2de jaar van de school het Mediacollage Amsterdam met de opleiding game development. Hier leer ik verschillende talen om later alle kanten op te kunnen. Op het moment werk ik bij de Jumbo Nieuw Vennep als groente man hier leer ik om zelfstandig te werken maar ook om samen te werken.</p>
+              <h1>Who am I?</h1>
+              <p>My name is robin schellingerhout. I am born in 1999 and live in a small town called nieuwe vennep. I am in my third year on the school Media Collage Amsterdam of the education game development. Here I learn many different program languages so when I am going to work somewhere I am not restricted to one language. At my lats job I was greengrocer at the local supermarket. Here I learned to work independently but also work as a team.</p>
             </div>
             <div class="watvindikleuk" class="text">
-              <h1>Wat vind ik leuk?</h1>
-              <p>Uiteraard houd ik veel van gamen en het liefst samen met vrienden. Ook vind ik het leuk om close-up foto’s te maken van natuur. En houd ik er van om gezellig te kanoën. Binnen kort wil ik ook gaan beginnen aan airsoft, hier kijk ik heel erg naar uit.</p>
+              <h1>Hobbies</h1>
+              <p>Of course I love gaming preferably multiplayer-games. Also I like to photograph nature. And I like going to the gym. Shortly when I have money, I want to start airsoft as well, I am really looking forward to this.</p>
             </div>
             <div class="waaromgd" class="text">
-              <h1>Waarom game development?</h1>
-              <p>Ik wilde altijd al een baan met iets creatiefs. Iets waar je mensen kan laten genieten van wat jij gemaakt heb. Zelf vind ik gamen heel leuk om te doen. Daarom dacht ik ik geef game Development een kans. Ondanks het soms wat lastig is, vind ik het super leuk om te doen. Ik denk dat gamen een goede manier is om mensen even voor een tijdje af te leiden van het echte leven. En daar wil ik bij helpen.</p>
+              <h1>Why game development?</h1>
+              <p>I have always wanted a job where I can be creative. A job where people can enjoy what you made. And since I like games myself as well. So I thought I am going to give game development a shot. Even though it can be hard, I really like it. I think gaming is a good way to distract people from real life. So I want to help with that.</p>
             </div>
             <div class="doelen" class="text">
-              <p>Mijn uiteindelijke doel is om is om vrij makkelijk en soepel code te kunnen schrijven. En mensen blij te maken met de experiences die ze krijgen van de games die ik heb ik gemaakt of aan mee heb geholpen.</p>
+              <h1>goals</h1>
+              <p>My goal is to write code flawlessly. And make people happy with the experiences they get from the game I made or worked on.</p>
             </div>
           </div>
         </div>

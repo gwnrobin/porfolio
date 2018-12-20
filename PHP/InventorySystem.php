@@ -12,7 +12,7 @@
   </head>
   <body>
     <?php include 'Header.php'; ?>
-    <div class="section" id="section-1-wrap" style="background-image: url(../Pictures/inventorySystemBanner.png)">
+    <div class="section" id="section-1-wrap" style="background-image: url(../Pictures/inventorySystem1.png)">
       <div class="centershow-wrap">
         <div class="centershow">
           <h1 class="title">Inventory System</h1>
@@ -50,7 +50,7 @@
               <img id="game_cover" src="../Pictures/inventorySystem1.png">
               <div class="information">
                 <div class="about_game">
-                  <p>het is een klein project gefocusd op het inventory system.<br><br></p>
+                  <p>this is a small project focused on the inventory.<br><br></p>
                 </div>
               </div>
             </div>
@@ -89,26 +89,26 @@
             <div class="info-section">
               <div class="about_infomation">
                 <div class="info-text">
-                  <h2>Mijn aandeel</h2>
+                  <h2>My part</h2>
                   <br>
-                  <p>Dit project was een solo projectje. Dit project draait alleen de inventory die ik gemaakt heb. Voor de shader kan je een extra texture gebruiken die grijstinten gebruik om aan te geven wat dikker en minder dik moet worden op het model</p>
+                  <p>This is a solo project, Where it is about the inventory system.</p>
                 </div>
               </div>
               <div class="about_infomation">
                 <div class="info-text">
-                  <h2>Wat ik geleerd heb</h2>
+                  <h2>What did i learn</h2>
                   <br>
-                  <p>in dit project heb ik veel met data gewerkt. ik heb alle kennis die ik opgedaan over dingen zoals interfaces en scriptable objects in 1 project samen gevoegd.</p>
+                  <p>I worked a lot with data in this projects. I used all my knowledge about interfaces and scriptable objects and more and used it in one project.</p>
                 </div>
               </div>
               <div class="genaral_info">
                 <div class="info-text">
-                  <h2>Algemene Informatie</h2>
+                  <h2>General Information</h2>
                   <br>
-                  <li>Naam: InventorySystem</li>
-                  <li>Bouw tijd: 5 dagen</li>
+                  <li>Name: Inventory system</li>
+                  <li>Build time: 5 hours</li>
                   <li>Engine: Unity</li>
-                  <li>Programeer taal: C#</li>
+                  <li>Language: C#</li>
                 </div>
               </div>
             </div>
